@@ -47,11 +47,22 @@
     border: 5px solid #393E46;
 }
 
-img.imgs {
+.imgs {
     width: 50%;
-    height: 450px;
     /* display: block; */
     text-align: center;
     object-fit: cover;
     margin: 10px;
+    margin: auto;
+}
+
+.content-explicacion {
+    /* position: absolute; */
+    height: fit-content;
+    text-align: center;
+    padding: 10px;
+    background: #161616;
+    color: white;
+    border-radius: 5px;
+    display: block;
 }
