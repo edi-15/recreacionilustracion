@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+body {
+    min-width: 820px;
+}
+
+
 .content-nav {
     width: 100%;
     background: #161616;
